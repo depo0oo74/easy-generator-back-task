@@ -27,7 +27,7 @@ export class AuthService {
     });
     creatUser.save();
     return {
-        statusCode: 200,
+        statusCode: 201,
         message: 'User created successfully',
 
     }

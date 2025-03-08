@@ -69,6 +69,8 @@ project/
 │   │   └── dto/
 │   │         └── login.dto.ts
 |   |         └── signup.dto.ts
+│   │   └── guards/
+│   │         └── auth.guards.ts
 │   ├── users/
 │   │   ├── users.controller.ts
 │   │   ├── users.service.ts
@@ -82,6 +84,7 @@ project/
 │   ├── app.e2e-spec.ts
 │   └── jest-e2e.json
 ├── .env
+├── .env.example
 ├── .eslintrc.js
 ├── .prettierrc
 ├── nest-cli.json
