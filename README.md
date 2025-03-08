@@ -77,9 +77,6 @@ project/
 │   │   ├── users.module.ts
 │   │   └── schemas/
 │   │         └── user.schema.ts
-│   └── shared/
-│       └── middleware/
-│           └── logger.middleware.ts
 ├── test/
 │   ├── app.e2e-spec.ts
 │   └── jest-e2e.json
