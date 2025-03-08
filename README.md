@@ -29,7 +29,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/nestjs-example-project.git
+   git clone git@github.com:depo0oo74/easy-generator-back-task.git
 
 2. Navigate to the project folder
 
